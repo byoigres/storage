@@ -1,0 +1,2 @@
+export const SET_ENTITIES = 'SET_ENTITIES';
+export const RESET_ENTITIES = 'RESET_ENTITIES';

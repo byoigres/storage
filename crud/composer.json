@@ -1,0 +1,18 @@
+{
+    "name": "coppel/crud",
+    "type": "project",
+    "description": "",
+    "authors": [
+        {
+            "name": "Sergio Flores",
+            "email": "sergio@byoigr.es"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Coppel\\CRUD\\Controllers\\": "./src/controllers",
+            "Coppel\\CRUD\\Models\\": "./src/models"
+        }
+    }
+}

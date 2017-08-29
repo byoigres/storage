@@ -1,0 +1,17 @@
+{
+  "presets": [
+    [
+      "es2015", {
+        "loose": true,
+        "modules":  false
+      }
+    ],
+    "react",
+    "env"
+  ],
+  "plugins": [
+    "react-hot-loader/babel",
+    "transform-object-rest-spread",
+    "transform-class-properties"
+  ]
+}
